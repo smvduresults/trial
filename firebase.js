@@ -10,7 +10,7 @@ signInWithPopup
 
 const firebaseConfig = {
 
-apiKey: "YOUR_FIREBASE_KEY",
+apiKey: "AIzaSyDiWDW8kz5N26mHDMFPf4ABiT6x2ljeipQ",
 authDomain: "hobbiestocarrer.firebaseapp.com",
 projectId: "hobbiestocarrer",
 appId: "1:491176675111:web:87f2950296ee07b42c4b02"
@@ -70,5 +70,6 @@ window.location="hobbies.html"
 })
 
 .catch(error=>alert(error.message))
+
 
 }
